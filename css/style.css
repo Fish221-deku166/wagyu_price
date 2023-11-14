@@ -29,6 +29,10 @@ p {
   color: #343a40;
 }
 
+.card-4__flex {
+  width: 25%;
+}
+
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
