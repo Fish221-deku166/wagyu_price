@@ -33,6 +33,11 @@ p {
   width: 25%;
 }
 
+/* 以下のスタイルを追加 */
+.card {
+  border-radius: 0;
+}
+
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
